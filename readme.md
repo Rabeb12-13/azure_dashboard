@@ -1,2 +1,2 @@
 Hello planet 
-hELLO Ioana 
+hello Ioana 
